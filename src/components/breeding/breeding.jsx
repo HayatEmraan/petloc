@@ -4,8 +4,8 @@ const Breeding = () => {
   return (
     <div id="breeding" className="container w-full mx-auto lg:px-28 px-4 my-12">
       <div>
-        <h1 className="text-5xl font-bold">Breeding</h1>
-        <ul className="text-xl font-semibold list-disc mb-6 mt-2 mx-12">
+        <h1 className="text-4xl text-gray-700 font-bold">Breeding</h1>
+        <ul className="md:text-xl text-gray-700 font-semibold list-disc mb-6 mt-2 mx-5 md:mx-12">
           <li>Access to top breeders and their litters</li>
           <li>Customized breeding plans based on your preferences</li>
           <li>Expert guidance and support throughout the breeding process</li>

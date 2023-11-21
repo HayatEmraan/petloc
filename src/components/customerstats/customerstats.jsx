@@ -8,9 +8,9 @@ const CustomerStats = () => {
       <div className="overflow-hidden">
         <div className="container mx-auto mt-12">
           <h1 className="text-3xl font-bold text-center mb-3">
-            Supported By Brands
+            Supported By
           </h1>
-          <div className="lg:flex grid grid-cols-3  p-4 justify-around items-center">
+          <div className="lg:flex grid grid-cols-3 gap-4 p-4 justify-around items-center">
             <div data-aos="fade-up">
               <img
                 className="w-48"
@@ -48,7 +48,7 @@ const CustomerStats = () => {
             </div>
           </div>
         </div>
-        <div className="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+        <div className="relative max-w-[85rem] px-4 sm:px-6 lg:px-8 lg:py-14 mx-auto">
           {/* Grid */}
           <div className="mt-20 grid gap-6 grid-cols-2 sm:gap-12 lg:grid-cols-3 lg:gap-8">
             {/* Stats */}

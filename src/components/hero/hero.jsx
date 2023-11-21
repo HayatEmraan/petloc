@@ -5,11 +5,11 @@ const Hero = () => {
     <div className="bg-[#F4F8FD]">
       <div className="container w-full mx-auto py-12 lg:px-24 px-4 md:flex items-center justify-center space-y-6 gap-12">
         <div>
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-12">
+          <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-12">
             Welcome to PetLoc - <br /> Your One-stop Destination for <br /> Pet
             Care
           </h1>
-          <p className="text-xl font-semibold mb-6">
+          <p className="text-lg md:text-xl font-semibold mb-6">
             At PetLoc, we understand the unique needs of pet owners and strive
             to <br />
             provide comprehensive pet care solutions. From pet adoption to{" "}
