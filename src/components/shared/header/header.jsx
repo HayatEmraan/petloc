@@ -63,14 +63,14 @@ const Header = () => {
           <div className="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
             <a
               className="font-medium text-blue-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="#breeding"
               aria-current="page"
             >
               Breeding
             </a>
             <a
               className="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="#delivery"
             >
               Delivery
             </a>
@@ -82,9 +82,9 @@ const Header = () => {
             </a>
             <a
               className="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="#contact-us"
             >
-              Foster House
+              Contact Us
             </a>
           </div>
         </div>

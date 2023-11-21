@@ -3,14 +3,14 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-white lg:grid lg:grid-cols-5">
-      <div className="relative block h-32 lg:col-span-2 lg:h-[86%]">
+      <div className="relative block h-32 lg:col-span-2 lg:h-[100%]">
         <img
           src="/images/banner/banner.jpg"
           alt=""
           className="absolute inset-0 h-full w-full object-cover"
         />
       </div>
-      <div className="px-4 py-16 sm:px-6 lg:col-span-3 lg:px-8">
+      <div className="px-4 pt-16 mb-4 sm:px-6 lg:col-span-3 lg:px-8">
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2">
           <div>
             <p>

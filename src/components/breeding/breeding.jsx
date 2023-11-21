@@ -2,7 +2,7 @@ import React from "react";
 
 const Breeding = () => {
   return (
-    <div className="container w-full mx-auto lg:px-28 px-4 my-12">
+    <div id="breeding" className="container w-full mx-auto lg:px-28 px-4 my-12">
       <div>
         <h1 className="text-5xl font-bold">Breeding</h1>
         <ul className="text-xl font-semibold list-disc mb-6 mt-2 mx-12">
