@@ -116,29 +116,29 @@ const Contact = () => {
                 <div className="mb-6">
                   <input
                     type="text"
-                    placeholder="Your Name"
-                    className="border-stroke dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none"
+                    placeholder="e.g. John Doe"
+                    className="border-stroke bg-white dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none"
                   />
                 </div>
                 <div className="mb-6">
                   <input
                     type="email"
-                    placeholder="Your Email"
-                    className="border-stroke dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none"
+                    placeholder="e.g. 8zjzB@example.com"
+                    className="border-stroke bg-white dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none"
                   />
                 </div>
                 <div className="mb-6">
                   <input
                     type="text"
-                    placeholder="Your Phone"
-                    className="border-stroke dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none"
+                    placeholder="e.g. +88 017 123 456 78"
+                    className="border-stroke bg-white dark:border-dark-3 dark:text-dark-6 dark:bg- text-body-color focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none"
                   />
                 </div>
                 <div className="mb-6">
                   <textarea
                     rows="6"
                     placeholder="Your Message"
-                    className="border-stroke dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary w-full resize-none rounded border py-3 px-[14px] text-base outline-none"
+                    className="border-stroke dark:border-dark-3 dark:text-dark-6 dark:bg-dark text-body-color focus:border-primary bg-white w-full resize-none rounded border py-3 px-[14px] text-base outline-none"
                   ></textarea>
                 </div>
                 <div>

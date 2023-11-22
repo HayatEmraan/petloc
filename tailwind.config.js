@@ -15,5 +15,6 @@ module.exports = {
       },
     },
   },
+  darkMode: "class",
   plugins: [require("preline/plugin"), require("daisyui")],
 };

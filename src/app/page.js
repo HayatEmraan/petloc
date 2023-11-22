@@ -8,7 +8,7 @@ import Testimonials from "@/components/testimonials/testimonials";
 
 export default function Home() {
   return (
-    <main>
+    <main className="text-gray-700 bg-white">
       <Hero />
       <CustomerStats />
       <Services />

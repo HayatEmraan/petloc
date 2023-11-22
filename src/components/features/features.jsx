@@ -3,13 +3,13 @@ import React from "react";
 const Features = () => {
   return (
     <div className="container w-full mx-auto lg:px-28 px-4 my-12">
-      <div className="flex text-xl flex-col w-full border-opacity-50">
+      <div className="flex text-xl text-gray-700 flex-col w-full border-opacity-50">
         <div className="divider">Features & Benefits</div>
       </div>
       <section>
         <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-12 sm:px-6 lg:py-12 lg:px-8">
           <div className="mx-auto max-w-lg text-center">
-            <h2 className="text-3xl font-bold sm:text-4xl">
+            <h2 className="text-3xl font-bold sm:text-4xl text-gray-700">
               A one-stop solution
             </h2>
 
@@ -43,7 +43,9 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold">Pet Adoption</h2>
+              <h2 className="mt-4 text-xl text-gray-700 font-bold">
+                Pet Adoption
+              </h2>
 
               <p className="mt-1 text-sm text-gray-700">
                 Pet adoption transforms lives. Choose adoption, find joy, and
@@ -73,7 +75,9 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Grooming Services</h2>
+              <h2 className="mt-4 text-xl text-gray-700 font-bold ">
+                Grooming Services
+              </h2>
 
               <p className="mt-1 text-sm text-gray-700">
                 Pamper your pet at Petloc! Stylish cuts, essential care –
@@ -103,7 +107,9 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Breeding Solutions</h2>
+              <h2 className="mt-4 text-xl text-gray-700 font-bold ">
+                Breeding Solutions
+              </h2>
 
               <p className="mt-1 text-sm text-gray-700">
                 At Petloc, we redefine excellence. From health screenings to
