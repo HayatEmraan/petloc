@@ -1,8 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Footer from "@/components/shared/footer/footer";
-import Header from "@/components/shared/header/header";
 import Preline from "@/components/preline/preline";
+import OneContext from "@/security/fb.login";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,9 +16,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         <Preline />
-        <Header />
-        {children}
-        <Footer />
+        <OneContext>{children}</OneContext>
       </body>
     </html>
   );
