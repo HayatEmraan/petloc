@@ -3,7 +3,7 @@ import Features from "../features/features";
 
 const Services = () => {
   return (
-    <div className="bg-[#F4F8FD]">
+    <div id="services" className="bg-[#F4F8FD]">
       <div className="container w-full mx-auto lg:px-28 px-4 my-12 pb-12 pt-16">
         <h1 className="text-5xl font-bold mb-12">Our Services</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

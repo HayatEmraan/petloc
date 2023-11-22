@@ -69,10 +69,9 @@ const Testimonials = () => {
               </div>
 
               <p className="mt-4 text-gray-700">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa
-                sit rerum incidunt, a consequuntur recusandae ab saepe illo est
-                quia obcaecati neque quibusdam eius accusamus error officiis
-                atque voluptates magnam!
+                PetLoc helped me find my perfect furry companion. Their adoption
+                process was seamless, and their support team was always
+                available to answer my questions.
               </p>
             </blockquote>
 
@@ -135,10 +134,8 @@ const Testimonials = () => {
               </div>
 
               <p className="mt-4 text-gray-700">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa
-                sit rerum incidunt, a consequuntur recusandae ab saepe illo est
-                quia obcaecati neque quibusdam eius accusamus error officiis
-                atque voluptates magnam!
+                PetLoc made adopting my furry companion easy and enjoyable.
+                Seamless process and a supportive team – highly recommend!
               </p>
             </blockquote>
 
@@ -201,10 +198,9 @@ const Testimonials = () => {
               </div>
 
               <p className="mt-4 text-gray-700">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa
-                sit rerum incidunt, a consequuntur recusandae ab saepe illo est
-                quia obcaecati neque quibusdam eius accusamus error officiis
-                atque voluptates magnam!
+                Thanks to PetLoc, my furry friend found me! The adoption process
+                was smooth, and their team was fantastic. Highly satisfied with
+                the experience!
               </p>
             </blockquote>
           </div>

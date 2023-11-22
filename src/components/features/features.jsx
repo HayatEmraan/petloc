@@ -10,13 +10,14 @@ const Features = () => {
         <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-12 sm:px-6 lg:py-12 lg:px-8">
           <div className="mx-auto max-w-lg text-center">
             <h2 className="text-3xl font-bold sm:text-4xl">
-              Kickstart your marketing
+              A one-stop solution
             </h2>
 
             <p className="mt-4 text-gray-600">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Consequuntur aliquam doloribus nesciunt eos fugiat. Vitae aperiam
-              fugit consequuntur saepe laborum.
+              At PetLoc, we provide a range of personalized services to
+              facilitate your pet adoption journey and enhance the well-being of
+              your furry friend, ensuring a seamless and joyous experience for
+              both you and your new companion.
             </p>
           </div>
 
@@ -42,12 +43,12 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold">Digital campaigns</h2>
+              <h2 className="mt-4 text-xl font-bold">Pet Adoption</h2>
 
               <p className="mt-1 text-sm text-gray-700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut
-                quo possimus adipisci distinctio alias voluptatum blanditiis
-                laudantium.
+                Pet adoption transforms lives. Choose adoption, find joy, and
+                gain a lifelong companion. Make a difference in a furry
+                friend&apos;s life today.
               </p>
             </a>
 
@@ -72,12 +73,12 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Digital campaigns</h2>
+              <h2 className="mt-4 text-xl font-bold ">Grooming Services</h2>
 
               <p className="mt-1 text-sm text-gray-700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut
-                quo possimus adipisci distinctio alias voluptatum blanditiis
-                laudantium.
+                Pamper your pet at Petloc! Stylish cuts, essential care –
+                we&apos;ve got it covered. Your furry friend deserves the best,
+                and we&apos;re here to deliver.
               </p>
             </a>
 
@@ -102,12 +103,12 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Digital campaigns</h2>
+              <h2 className="mt-4 text-xl font-bold ">Breeding Solutions</h2>
 
               <p className="mt-1 text-sm text-gray-700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut
-                quo possimus adipisci distinctio alias voluptatum blanditiis
-                laudantium.
+                At Petloc, we redefine excellence. From health screenings to
+                personalized care, trust us for a top-tier breeding experience.
+                Elevate your standards with our expertise.
               </p>
             </a>
 
@@ -132,12 +133,12 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Digital campaigns</h2>
+              <h2 className="mt-4 text-xl font-bold ">Pet Delivery</h2>
 
               <p className="mt-1 text-sm text-gray-700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut
-                quo possimus adipisci distinctio alias voluptatum blanditiis
-                laudantium.
+                Count on us for swift and secure pet delivery. From our door to
+                yours, we ensure a stress-free journey for your furry companion.
+                Choose ease, choose us.
               </p>
             </a>
 
@@ -162,12 +163,13 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Digital campaigns</h2>
+              <h2 className="mt-4 text-xl font-bold ">One-stop Destination</h2>
 
               <p className="mt-1 text-sm text-gray-700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut
-                quo possimus adipisci distinctio alias voluptatum blanditiis
-                laudantium.
+                Discover convenience at Petloc, your ultimate pet hub. From
+                grooming to breeding solutions, we&apos;re your one-stop
+                destination for all things pet. Elevate your pet&apos;s
+                experience with us.
               </p>
             </a>
 
@@ -192,12 +194,12 @@ const Features = () => {
                 />
               </svg>
 
-              <h2 className="mt-4 text-xl font-bold ">Digital campaigns</h2>
+              <h2 className="mt-4 text-xl font-bold ">Pet Care</h2>
 
               <p className="mt-1 text-sm text-gray-700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut
-                quo possimus adipisci distinctio alias voluptatum blanditiis
-                laudantium.
+                Experience top-notch pet care at Petloc. Our tailored approach
+                ensures your furry companion receives the attention and love
+                they deserve. Choose excellence in pet care.
               </p>
             </a>
           </div>

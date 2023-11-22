@@ -2,7 +2,10 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <section id="contact-us" className="container w-full mx-auto lg:px-28 relative z-10 overflow-hidden bg-white dark:bg-dark py-20 lg:py-[120px]">
+    <section
+      id="contact-us"
+      className="container w-full mx-auto lg:px-28 relative z-10 overflow-hidden bg-white dark:bg-dark py-20 lg:py-[120px]"
+    >
       <div className="container mx-auto">
         <div className="flex flex-wrap -mx-4 lg:justify-between">
           <div className="w-full px-6 md:px-4 lg:w-1/2 xl:w-6/12">
@@ -11,12 +14,12 @@ const Contact = () => {
                 Contact Us
               </span>
               <h2 className="text-dark dark:text-white mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]">
-                GET IN TOUCH WITH US
+                GET IN TOUCH
               </h2>
               <p className="text-base leading-relaxed text-body-color dark:text-dark-6 mb-9">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                adiqua minim veniam quis nostrud exercitation ullamco
+                We are always open to discuss your project and improve your
+                online presence. Feel free to contact us via phone, email, or
+                via the contact form.
               </p>
               <div className="mb-8 flex w-full max-w-[370px]">
                 <div className="bg-primary/5 text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded sm:h-[70px] sm:max-w-[70px]">

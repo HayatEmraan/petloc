@@ -16,9 +16,12 @@ const Hero = () => {
             <br />
             breeding and grooming services, we’ve got you covered.
           </p>
-          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+          <a
+            href="#services"
+            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+          >
             View Our Services
-          </button>
+          </a>
         </div>
         <div className="lg:w-1/2">
           <img
