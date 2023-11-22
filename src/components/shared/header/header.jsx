@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <a
             className="inline-flex items-center gap-x-2 text-xl font-semibold dark:text-white"
-            href="#"
+            href="/"
           >
             <img className="w-48 h-16" src="/logo/logo.png" alt="Logo" />
           </a>
